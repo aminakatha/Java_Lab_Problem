@@ -44,7 +44,8 @@ public class BPLTeamBuilder {
         List<Player> foreignPlayers = new ArrayList<>();
 
         bangladeshiPlayers.add(new Player("Shakib Al Hasan", "Bangladesh"));
-        bangladeshiPlayers.add(new Player("Tamim Iqbal", "Bangladesh"));
+        bangladeshiPlayers.add(new Player("Mashrafee Mortoza", "Bangladesh"));
+        bangladeshiPlayers.add(new Player("Mahmudullah", "Bangladesh"));
         bangladeshiPlayers.add(new Player("Mushfiqur Rahim", "Bangladesh"));
         bangladeshiPlayers.add(new Player("Mustafizur Rahman", "Bangladesh"));
         bangladeshiPlayers.add(new Player("Liton Das", "Bangladesh"));
@@ -52,7 +53,7 @@ public class BPLTeamBuilder {
         bangladeshiPlayers.add(new Player("Mehidy Hasan", "Bangladesh"));
         bangladeshiPlayers.add(new Player("Afif Hossain", "Bangladesh"));
         bangladeshiPlayers.add(new Player("Nasum Ahmed", "Bangladesh"));
-        bangladeshiPlayers.add(new Player("Mahmudullah", "Bangladesh"));
+        
 
 
         foreignPlayers.add(new Player("Chris Gayle", "West Indies"));
